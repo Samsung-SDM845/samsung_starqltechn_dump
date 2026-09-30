@@ -1,0 +1,5 @@
+ro.omc.build.version=G9600OWO9FVF2
+ro.omc.build.id=53475351
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE
