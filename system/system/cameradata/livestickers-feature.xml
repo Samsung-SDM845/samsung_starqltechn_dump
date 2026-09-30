@@ -1,0 +1,13 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<resources>
+    <!-- Thermistor Temperature - Only JPN used -->
+    <local name="OVERHEAT_LIMITATION_TEMP" value="640" />
+    <local name="OVERHEAT_AVAILABLE_TEMP" value="550" />
+
+    <!-- Sticker mode features -->
+    <local name="SUPPORT_FACE_AR" value="true" />
+    <local name="SUPPORT_WATERMARK" value="true"/>
+	
+	<!-- Full preview size -->
+    <local name="MAIN_FULL_PREVIEW_SIZE" value="2224x1080" />
+</resources>

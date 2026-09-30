@@ -1,0 +1,4 @@
+libentityextractor.textmining.samsung.so
+libentityextractor_cn.textmining.samsung.so
+libentityextractor_kr.textmining.samsung.so
+libtensorflowlite_jni.textmining.samsung.so

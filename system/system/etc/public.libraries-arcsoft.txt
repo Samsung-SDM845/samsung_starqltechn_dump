@@ -1,0 +1,5 @@
+libhumantracking.arcsoft.so
+libface_landmark.arcsoft.so
+libveengine.arcsoft.so
+lib_pet_detection.arcsoft.so
+libFacialAttributeDetection.arcsoft.so
