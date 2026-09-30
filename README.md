@@ -1,0 +1,20 @@
+## starqltezh-user 10 QP1A.190711.020 G9600ZHU9FVF2 release-keys
+- Manufacturer: samsung
+- Platform: sdm845
+- Codename: starqltechn
+- Brand: samsung
+- Flavor: starqltezh-user
+- Release Version: 10
+- Kernel Version: 4.9.186
+- Id: QP1A.190711.020
+- Incremental: G9600ZHU9FVF2
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 480
+- Fingerprint: samsung/starqltezh/starqltechn:10/QP1A.190711.020/G9600ZHU9FVF2:user/release-keys
+- OTA version: 
+- Branch: starqltezh-user-10-QP1A.190711.020-G9600ZHU9FVF2-release-keys
+- Repo: samsung_starqltechn_dump
